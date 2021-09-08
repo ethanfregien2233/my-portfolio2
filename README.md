@@ -1,1 +1,1 @@
-# my-portfolio2
+For this assignment, I was tasked with making a portfolio website with web responsive images and navigational links to my deployed projects. It turned out to be quite a challenge! Here are the links to my deployed portfolio and portfolio repository.
